@@ -8,9 +8,9 @@
 - ⚡ Fun fact: I love solving puzzles and can spend hours working on a tricky Sudoku!
 
 ### 🛠️ Skills & Technologies
-- **Languages**: HTML, CSS, JavaScript, Python
-- **Frameworks/Libraries**: Bootstrap, React
-- **Tools**: Git, Visual Studio Code, Figma
+- **Languages**: HTML, CSS, JavaScript, Python, C, C++
+- **Frameworks/Libraries**: Bootstrap, React, Tailwind
+- **Tools**: Git, Visual Studio Code, Figma , Pycharm
 - **Databases**: MySQL
 
 ### 🏆 Achievements & Certifications
@@ -26,7 +26,7 @@
 - **Long-term**: Become a full-stack developer and contribute to large-scale open-source projects.
 
 ### 💬 Let's Connect
-- 
+- Linkedin : [LinkedIn](https://www.linkedin.com/in/nisha-kumari-38343a313)
   
 ### 🎉 Fun Section
 - **Favorite Quote**: "Code is like humor. When you have to explain it, it’s bad."
