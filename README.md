@@ -19,7 +19,9 @@
 - **BCA Degree** from Manipal University Jaipur
 
 ### 🌐 My Projects
-- 
+- Portfolio
+- Movie_web
+- Pokemon-app
 
 ### 🎯 Goals
 - **Short-term**: Master React and build a comprehensive portfolio.
