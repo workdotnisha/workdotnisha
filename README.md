@@ -14,8 +14,6 @@
 - **Databases**: MySQL
 
 ### 🏆 Achievements & Certifications
-- **Certified Front-End Developer** - 
-- **Top Contributor** on
 - **BCA Degree** from Manipal University Jaipur
 
 ### 🌐 My Projects
