@@ -12,13 +12,16 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=workdotnisha&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=workdotnisha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=workdotnisha&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ###
+## Watch snake eating my github contributions
 
 <img src="https://raw.githubusercontent.com/workdotnisha/workdotnisha/output/snake.svg" alt="Snake animation" />
 
 ###
+
+---
+[![](https://visitcount.itsvg.in/api?id=workdotnisha&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
