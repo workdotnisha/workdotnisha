@@ -1,5 +1,5 @@
-# 💫 About Me:
-👩‍💻 Nisha Kumari<br>🚀 Aspiring Full-Stack Developer | BCA Student | Generative AI Enthusiast<br><br>🌟 About Me<br>🎓 BCA 2nd-year Student at Manipal University Jaipur.<br>💻 Completed internships and live projects as a Frontend Developer at Salesqueen Software Solutions.<br>🌱 Currently exploring Express.js, Generative AI, and full-stack development projects.<br>🎯 Focused on building skills for MNC opportunities and cracking interviews.
+# 👩‍💻 Nisha Kumari:
+<br>🚀 Aspiring Full-Stack Developer | BCA Student | Generative AI Enthusiast<br><br>🌟 About Me<br>🎓 BCA 2nd-year Student at Manipal University Jaipur.<br>💻 Completed internships and live projects as a Frontend Developer at Salesqueen Software Solutions.<br>🌱 Currently exploring Express.js, Generative AI, and full-stack development projects.<br>🎯 Focused on building skills for MNC opportunities and cracking interviews.
 
 
 ## 🌐 Socials:
@@ -14,5 +14,11 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=workdotnisha&icon=0&color=0)](https://visitcount.itsvg.in)
+
+###
+
+<img src="https://raw.githubusercontent.com/workdotnisha/workdotnisha/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
