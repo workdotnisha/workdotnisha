@@ -1,49 +1,44 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# Align Items on Center with Snake Animation and Streak
 
-###
+## Project Overview
+This project demonstrates how to center-align items on the page while incorporating a snake animation and streak effect. The snake animation is a fun and interactive way to showcase how CSS animations can be used to create dynamic and engaging user experiences. This project can be used as a starting point for more complex animations or layout designs.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## Features
+- **Centered Items**: The items are perfectly aligned in the center of the page using modern CSS techniques.
+- **Snake Animation**: A playful snake animation is applied to the elements, creating a moving effect.
+- **Streak Effect**: A streak animation adds an extra flair, making the page more visually dynamic.
+  
+## Technologies Used
+- HTML
+- CSS (Flexbox, Animation)
+  
+## Demo
+[View Demo Here](insert-demo-link-here)
 
-###
+## Installation
+To get started with this project:
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/your-repo-name.git
+    ```
+2. Navigate into the project directory:
+    ```bash
+    cd your-repo-name
+    ```
+3. Open the `index.html` file in your browser to view the project.
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## How It Works
+1. **Centering Items**: Flexbox is used to center the items both horizontally and vertically within the page.
+2. **Snake Animation**: CSS `@keyframes` is used to animate the movement of elements, giving the appearance of a snake-like effect.
+3. **Streak Effect**: The streak is created using CSS animation, adding an exciting visual effect to the project.
 
-###
+## Contributing
+Feel free to fork the repository, make changes, and submit pull requests. Any contributions to enhance the animation or improve the layout are welcome!
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## License
+This project is open-source and available under the [MIT License](LICENSE).
+  
+## Contact
+Created by [Nisha Kumari](https://github.com/your-username) - feel free to reach out for any queries or collaboration.
 
-###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
