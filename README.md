@@ -1,55 +1,18 @@
-# Hi there, I'm Nisha Kumari 👋
+# 💫 About Me:
+👩‍💻 Nisha Kumari<br>🚀 Aspiring Full-Stack Developer | BCA Student | Generative AI Enthusiast<br><br>🌟 About Me<br>🎓 BCA 2nd-year Student at Manipal University Jaipur.<br>💻 Completed internships and live projects as a Frontend Developer at Salesqueen Software Solutions.<br>🌱 Currently exploring Express.js, Generative AI, and full-stack development projects.<br>🎯 Focused on building skills for MNC opportunities and cracking interviews.
 
-Welcome to my GitHub profile! I’m a passionate software developer who is constantly learning and exploring new technologies. I focus on building clean, efficient, and scalable code for both frontend and backend development.
 
-## About Me
-- 💻 Currently working with HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, and Node.js
-- 🎓 Pursuing BCA (Bachelor of Computer Applications) at **Manipal University Jaipur**
-- 📚 Always learning new skills — currently diving into **Python**, **Express.js**, and **Generative AI**
-- 🌱 Actively working on building full-stack applications to improve my skills and help me get hired
-- 🎯 My goal is to become a Software Engineer at an MNC and contribute to impactful projects
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nisha-kumari-38343a313/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Byte-Crafter) 
 
-## Snake Animation 🐍
-Here’s a fun little snake animation to demonstrate my love for playful design elements:
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=workdotnisha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=workdotnisha&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=workdotnisha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Snake Animation](https://media.giphy.com/media/Y2tvS5aScZT5U/giphy.gif)
+---
+[![](https://visitcount.itsvg.in/api?id=workdotnisha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Streak Effect ⚡
-Here’s a cool streak effect to add some visual flair to my profile:
-
-![Streak Effect](https://media.giphy.com/media/l0K4j9O6tqslZ7dyw/giphy.gif)
-
-## Skills & Technologies
-- **Frontend**: HTML, CSS, JavaScript, Tailwind CSS, Bootstrap
-- **Backend**: Node.js, Express.js
-- **Version Control**: Git, GitHub
-- **Databases**: MySQL, MongoDB (learning)
-- **Tools**: Postman, Chrome DevTools, Visual Studio Code
-
-## GitHub Stats
-![Nisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=workdotnisha&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-
-## Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/nisha-kumari/)
-- [Email](mailto:workdotnisha@gmail.com)
-
-## Projects
-Check out some of my projects:
-- [Pokémon Website](https://github.com/workdotnisha/pokemon-website)
-- [Responsive Portfolio](https://github.com/workdotnisha/responsive-portfolio)
-
-## Fun Facts
-- I love working on **animated designs** and **interactive web elements**.
-- I participated in the **Swait Hackathon** and **Google Cloud Arcade Facilitator Program**.
-- I’m always up for a good coding challenge or a hackathon!
-
-## Goals
-- 🌟 Gain hands-on experience by building full-stack applications.
-- 🌟 Strengthen my problem-solving skills on **LeetCode** and improve my Data Structures and Algorithms (DSA) knowledge.
-- 🌟 Apply for **internships** and **full-time roles** to begin my career in software engineering.
-
-## Education
-- **Bachelor of Computer Applications (BCA)** — Manipal University Jaipur
-- **Certifications**: Python Zero to Hero, Generative AI, Developing Back-End Apps with Node.js, and many more from Coursera and Udemy
-
-Feel free to check out my repositories, and don’t hesitate to reach out for collaborations or mentoring opportunities. 😊
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
