@@ -1,44 +1,55 @@
-# Align Items on Center with Snake Animation and Streak
+# Hi there, I'm Nisha Kumari 👋
 
-## Project Overview
-This project demonstrates how to center-align items on the page while incorporating a snake animation and streak effect. The snake animation is a fun and interactive way to showcase how CSS animations can be used to create dynamic and engaging user experiences. This project can be used as a starting point for more complex animations or layout designs.
+Welcome to my GitHub profile! I’m a passionate software developer who is constantly learning and exploring new technologies. I focus on building clean, efficient, and scalable code for both frontend and backend development.
 
-## Features
-- **Centered Items**: The items are perfectly aligned in the center of the page using modern CSS techniques.
-- **Snake Animation**: A playful snake animation is applied to the elements, creating a moving effect.
-- **Streak Effect**: A streak animation adds an extra flair, making the page more visually dynamic.
-  
-## Technologies Used
-- HTML
-- CSS (Flexbox, Animation)
-  
-## Demo
-[View Demo Here](insert-demo-link-here)
+## About Me
+- 💻 Currently working with HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, and Node.js
+- 🎓 Pursuing BCA (Bachelor of Computer Applications) at **Manipal University Jaipur**
+- 📚 Always learning new skills — currently diving into **Python**, **Express.js**, and **Generative AI**
+- 🌱 Actively working on building full-stack applications to improve my skills and help me get hired
+- 🎯 My goal is to become a Software Engineer at an MNC and contribute to impactful projects
 
-## Installation
-To get started with this project:
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    ```
-2. Navigate into the project directory:
-    ```bash
-    cd your-repo-name
-    ```
-3. Open the `index.html` file in your browser to view the project.
+## Snake Animation 🐍
+Here’s a fun little snake animation to demonstrate my love for playful design elements:
 
-## How It Works
-1. **Centering Items**: Flexbox is used to center the items both horizontally and vertically within the page.
-2. **Snake Animation**: CSS `@keyframes` is used to animate the movement of elements, giving the appearance of a snake-like effect.
-3. **Streak Effect**: The streak is created using CSS animation, adding an exciting visual effect to the project.
+![Snake Animation](https://media.giphy.com/media/Y2tvS5aScZT5U/giphy.gif)
 
-## Contributing
-Feel free to fork the repository, make changes, and submit pull requests. Any contributions to enhance the animation or improve the layout are welcome!
+## Streak Effect ⚡
+Here’s a cool streak effect to add some visual flair to my profile:
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
-  
-## Contact
-Created by [Nisha Kumari](https://github.com/your-username) - feel free to reach out for any queries or collaboration.
+![Streak Effect](https://media.giphy.com/media/l0K4j9O6tqslZ7dyw/giphy.gif)
 
+## Skills & Technologies
+- **Frontend**: HTML, CSS, JavaScript, Tailwind CSS, Bootstrap
+- **Backend**: Node.js, Express.js
+- **Version Control**: Git, GitHub
+- **Databases**: MySQL, MongoDB (learning)
+- **Tools**: Postman, Chrome DevTools, Visual Studio Code
 
+## GitHub Stats
+![Nisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=workdotnisha&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+
+## Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/nisha-kumari/)
+- [Email](mailto:workdotnisha@gmail.com)
+
+## Projects
+Check out some of my projects:
+- [Pokémon Website](https://github.com/workdotnisha/pokemon-website)
+- [Responsive Portfolio](https://github.com/workdotnisha/responsive-portfolio)
+
+## Fun Facts
+- I love working on **animated designs** and **interactive web elements**.
+- I participated in the **Swait Hackathon** and **Google Cloud Arcade Facilitator Program**.
+- I’m always up for a good coding challenge or a hackathon!
+
+## Goals
+- 🌟 Gain hands-on experience by building full-stack applications.
+- 🌟 Strengthen my problem-solving skills on **LeetCode** and improve my Data Structures and Algorithms (DSA) knowledge.
+- 🌟 Apply for **internships** and **full-time roles** to begin my career in software engineering.
+
+## Education
+- **Bachelor of Computer Applications (BCA)** — Manipal University Jaipur
+- **Certifications**: Python Zero to Hero, Generative AI, Developing Back-End Apps with Node.js, and many more from Coursera and Udemy
+
+Feel free to check out my repositories, and don’t hesitate to reach out for collaborations or mentoring opportunities. 😊
