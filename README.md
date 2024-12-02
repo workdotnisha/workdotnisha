@@ -10,7 +10,8 @@
    🌟 About Me: 
 </h3>
 <p align="center">
-  <br>🎓 BCA 2nd-year Student at Manipal University Jaipur.<br>💻 Completed internships and live projects as a Frontend Developer at Salesqueen Software Solutions.<br>🌱 Currently exploring Express.js, Generative AI, and full-stack development projects.<br>🎯 Focused on building skills for MNC opportunities and cracking interviews.
+  <br>🎓 BCA 2nd-year Student at Manipal University Jaipur.<br>💻 Completed internships and live projects as a Frontend Developer at Salesqueen Software Solutions.<br>🌱 Currently exploring Express.js, Generative AI, and full-stack development projects.<br> 
+<!--     🎯 Focused on building skills for MNC opportunities and cracking interviews. -->
 </p>
 
 
